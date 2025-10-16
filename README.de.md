@@ -7,14 +7,14 @@ als Software-Entwickler/in zu erhalten.
 
 ## Einführung - Linux
 
-Wir verwenden als Arbeits-Betriebssytem Linux. Hast du davon schon gehört?
-Versuche dich auf dem Desktop zurecht zu finden. Welche Unterschiede zu deinem
+Wir verwenden als Arbeits-Betriebssystem Linux. Hast du davon schon gehört?
+Versuche dich auf dem Desktop zurechtzufinden. Welche Unterschiede zu deinem
 eigenen PC findest du?
 
 ## Übung 1 - HTML, CSS und Formulare
 
-Öffne den Ordner [html_css](./html_css/). Darin findest du eine Datei namens
-`index.html`. Öffne diese mit einem Webbrowser (Firefox, Chrome) und nebenbei
+Öffne den Ordner [html_css](./html_css/). Darin findest du eine Datei namens 
+[index.html](./html_css/index.html). Öffne diese mit einem Webbrowser (Firefox, Chrome) und nebenbei
 mit einem Text-Editor (Rechtsklick, danach öffnen mit Editor).
 
 ### Erste Aufgabe
@@ -29,7 +29,7 @@ Eingabefelder-Arten gibt es? Wie werden sie angezeigt?
 
 ### Dritte Aufgabe
 
-Versuche, das Aussehen des Formulares zu verändern. Verwende dazu CSS-Regeln.
+Versuche, das Aussehen des Formulars zu verändern. Verwende dazu CSS-Regeln.
 
 Mögliche Anpassungen:
 
@@ -50,8 +50,8 @@ nachlesen.
 ## Übung 2 - Javascript, Codeverständnis
 
 Öffne den Ordner [javascript](./javascript/). Darin findest du eine Datei namens
-`index.html`. Öffne diese mit einem Webbrowser (Firefox, Chrome) und nebenbei
-mit einem Text-Editor (Rechtsklick, danach öffnen mit Editor).
+[index.html](./javascript/index.html). Öffne diese mit einem Webbrowser (Firefox,
+Chrome) und nebenbei mit einem Text-Editor (Rechtsklick, danach öffnen mit Editor).
 
 
 ### Aufgabe 1
@@ -63,7 +63,7 @@ Wofür stehen die Zahlen? Wie ist das Koordinatensystem orientiert?
 
 ### Aufgabe 2
 
-Versuche, die Schrift `adfinis` in's Rechteck zu verschieben. Was musst du am
+Versuche, die Schrift `adfinis` ins Rechteck zu verschieben. Was musst du am
 Code anpassen, damit dies geschieht?
 
 ### Aufgabe 3
@@ -72,7 +72,7 @@ Versuche, den weissen Bereich im Quadrat grösser oder kleiner zu machen.
 
 ### Aufgabe 4
 
-Füge eine zweite Linie hinzu, so dass sie mit der bestehenden diagonalen Linie
+Füge eine zweite Linie hinzu, sodass sie mit der bestehenden diagonalen Linie
 ein Kreuz bildet.
 
 ### Aufgabe 5
