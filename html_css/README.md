@@ -1,32 +1,32 @@
-# HTML, CSS und Formulare
+# HTML, CSS, and Forms
 
-Öffne die Datei [index.html](./index.html) mit einem Webbrowser (Firefox,
-Chrome) und nebenbei mit einem Text-Editor (Rechtsklick, danach öffnen mit Editor).
+Open the file [index.html](./index.html) with a web browser (Firefox, Chrome) and also
+with a text editor (right-click, then open with editor).
 
-## Erste Aufgabe
+## First Task
 
-Verändere die Datei im Editor, speichere sie und lade die Seite im Browser neu.
-Was passiert? Wie wirkt sich die Änderung aus?
+Modify the file in the editor, save it, and reload the page in the browser. What
+happens? How does the change take effect?
 
-## Zweite Aufgabe
+## Second Task
 
-Versuche, im Formular ein neues Eingabefeld hinzuzufügen. Welche
-Eingabefelder-Arten gibt es? Wie werden sie angezeigt?
+Try to add a new input field to the form. What types of input fields are there? How are
+they displayed?
 
-## Dritte Aufgabe
+## Third Task
 
-Versuche, das Aussehen des Formulars zu verändern. Verwende dazu CSS-Regeln.
+Try to change the appearance of the form. Use CSS rules to do this.
 
-Mögliche Anpassungen:
+Possible customizations:
 
-* Versuche, den Hintergrund der Seite zu verändern (Bild oder Farbe)
-* Verändere die Ränder der Eingabefelder
-* Verändere die Schriftart einzelner Elemente, oder der ganzen Seite
+  * Try to change the background of the page (image or color)
+  * Change the borders of the input fields
+  * Change the font of individual elements or of the entire page
 
-## Hilfestellungen
+## Helpful Resources
 
-Zum Verständnis von HTML und CSS kannst du im [SelfHTML](https://wiki.selfhtml.org/)
-nachlesen.
+To understand HTML and CSS, you can consult the [SelfHTML](https://wiki.selfhtml.org/)
+wiki.
 
-* Hier geht's direkt zum [Thema Formulare](https://wiki.selfhtml.org/wiki/HTML/Formulare)
-* Hier geht's direkt zum [Thema CSS](https://wiki.selfhtml.org/wiki/CSS)
+  * Direct link to the [topic of Forms](https://wiki.selfhtml.org/wiki/HTML/Formulare)
+  * Direct link to the [topic of CSS](https://wiki.selfhtml.org/wiki/CSS)

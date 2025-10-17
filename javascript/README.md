@@ -1,39 +1,37 @@
-# Javascript, Codeverständnis
+# Javascript, Code Comprehension
 
-Öffne die Datei [index.html](./index.html) mit einem Webbrowser (Firefox,
-Chrome) und nebenbei mit einem Text-Editor (Rechtsklick, danach öffnen mit Editor).
+Open the file [index.html](./index.html) with a web browser (Firefox, Chrome) and also
+with a text editor (right-click, then open with editor).
 
+## Task 1
 
-## Aufgabe 1
+Try to understand what the Javascript code does. Experiment with the numbers, save the
+document, and observe the effects in the browser.
 
-Versuche zu verstehen, was der Javascript-Code macht. Spiele mit den Zahlen,
-speichere das Dokument und prüfe im Browser, was es für Auswirkungen hat.
+What do the numbers represent? How is the coordinate system oriented?
 
-Wofür stehen die Zahlen? Wie ist das Koordinatensystem orientiert?
+## Task 2
 
-## Aufgabe 2
+Try to move the text `adfinis` into the rectangle. What do you need to adjust in the
+code for this to happen?
 
-Versuche, die Schrift `adfinis` ins Rechteck zu verschieben. Was musst du am
-Code anpassen, damit dies geschieht?
+## Task 3
 
-## Aufgabe 3
+Try to make the white area within the square larger or smaller.
 
-Versuche, den weissen Bereich im Quadrat grösser oder kleiner zu machen.
+## Task 4
 
-## Aufgabe 4
+Add a second line so that it forms a cross with the existing diagonal line.
 
-Füge eine zweite Linie hinzu, sodass sie mit der bestehenden diagonalen Linie
-ein Kreuz bildet.
+## Task 5
 
-## Aufgabe 5
+Try to draw other shapes. What shapes are available? How are they created? Can you
+change the colors?
 
-Versuche, andere Figuren zu zeichnen. Welche gibt es? Wie werden sie erstellt?
-Kannst du die Farben ändern?
+## Helpful Resources
 
-## Hilfestellungen
+The [SelfHTML](https://wiki.selfhtml.org/) wiki also has extensive documentation on
+this topic:
 
-Im [SelfHTML](https://wiki.selfhtml.org/) gibt es auch zu diesem Thema eine
-ausführliche Dokumentation:
-
-* Informationen zum Thema [Canvas im Allgemeinen](https://wiki.selfhtml.org/wiki/JavaScript/Canvas)
-* Informationen zum Thema [Formen und Pfade](https://wiki.selfhtml.org/wiki/JavaScript/Canvas/Formen_und_Pfade)
+  * Information on [Canvas in general](https://wiki.selfhtml.org/wiki/JavaScript/Canvas)
+  * Information on [Shapes and Paths](https://wiki.selfhtml.org/wiki/JavaScript/Canvas/Formen_und_Pfade)

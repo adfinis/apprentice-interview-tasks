@@ -1,45 +1,45 @@
 # Python
 
-Öffne die Datei [rock_paper_scissor.py](./rock_paper_scissor.py) mit einem
-Text-Editor (Rechtsklick, danach öffnen mit Editor).
+Open the file [rock_paper_scissor.py](./rock_paper_scissor.py) with a text editor
+(right-click, then open with editor).
 
-Navigiere in einem Terminal zum python Ordner (`cd`). Führe die python-Datei aus
-(`./rock_paper_scissor.py`) und spiele eine Runde Schere, Stein, Papier.
+In a terminal, navigate to the python folder (`cd`). Execute the python file
+(`./rock_paper_scissor.py`) and play a round of rock, paper, scissors.
 
-Mach dich mir dem Spiel und dem Script bekannt. Welche Features werden bereitgestellt?
+Familiarize yourself with the game and the script. What features are provided?
 
-## Erste Aufgabe
+## First Task
 
-Ein Bug hat sich in das Skript geschlichen. Findest du ihn? Kannst du den Bug flicken?
+A bug has found its way into the script. Can you find it? Can you fix the bug?
 
-## Zweite Aufgabe
+## Second Task
 
-Mit welcher Option hast du statistisch die besten Chancen, um zu gewinnen? Kannst du
-das Skript so verändern, dass keine der Optionen eine höhere Gewinnchance hat?
+Statistically, which option gives you the best chance of winning? Can you modify the
+script so that no single option has a higher chance of winning?
 
-## Dritte Aufgabe
+## Third Task
 
-Wird zur Laufzeit des Programms `Ctrl+c` oder `Ctrl+d` eingegeben, wird ein
-`KeyboardInterrupt`-, respektive `EOFError`-Fehler geworfen.
+If `Ctrl+c` or `Ctrl+d` is entered while the program is running, a `KeyboardInterrupt`
+or `EOFError` is thrown, respectively.
 
-Kannst du diese Situationen so handeln, dass anstelle dieser Fehler der String
-`Good bye!` angezeigt wird?
+Can you handle these situations so that the string `Good bye!` is displayed instead of
+these errors?
 
-## Vierte Aufgabe
+## Fourth Task
 
-Das Skript beinhaltet diverse debug-logs, diese werden jedoch nicht angezeigt.
+The script contains several debug logs, but they are not currently displayed.
 
-Implementiere einen CLI-Toggle, um debug-Meldungen auszugeben (`-v` / `--verbose`).
+Implement a command-line interface (CLI) toggle to output debug messages
+(`-v` / `--verbose`).
 
-## Fünfte Aufgabe
+## Fifth Task
 
-Zurzeit besteht (wie im analogen Schere, Stein, Papier) die gleiche Wahrscheinlichkeit
-für einen Sieg, eine Niederlage oder ein Unentschieden. Kannst du das Skript so
-anpassen, dass eine 50:50 Wahrscheinlichkeit für Sieg und Niederlage besteht und ein
-Unentschieden verunmöglicht wird?
+Currently, as in the physical game of rock, paper, scissors, there is an equal
+probability of a win, a loss, or a draw. Can you adjust the script to ensure a 50:50
+probability of winning or losing, making a draw impossible?
 
-## Hilfestellungen
+## Helpful Resources
 
- * Informationen zu [Errors und Exceptions](https://docs.python.org/3/tutorial/errors.html)
- * Informationen zu [argparse](https://docs.python.org/3/library/argparse.html)
- * Informationen zum [logging-Modul](https://docs.python.org/3/library/logging.html)
+  * Information on [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+  * Information on [argparse](https://docs.python.org/3/library/argparse.html)
+  * Information on the [logging module](https://docs.python.org/3/library/logging.html)
