@@ -30,8 +30,7 @@ change the colors?
 
 ## Helpful Resources
 
-The [SelfHTML](https://wiki.selfhtml.org/) wiki also has extensive documentation on
+[W3Schools](https://www.w3schools.com/) also has extensive documentation on
 this topic:
 
-  * Information on [Canvas in general](https://wiki.selfhtml.org/wiki/JavaScript/Canvas)
-  * Information on [Shapes and Paths](https://wiki.selfhtml.org/wiki/JavaScript/Canvas/Formen_und_Pfade)
+  * Information on [Canvas and Paths](https://www.w3schools.com/tags/ref_canvas.asp)

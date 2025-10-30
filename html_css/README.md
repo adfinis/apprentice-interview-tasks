@@ -25,8 +25,8 @@ Possible customizations:
 
 ## Helpful Resources
 
-To understand HTML and CSS, you can consult the [SelfHTML](https://wiki.selfhtml.org/)
+To understand HTML and CSS, you can consult [W3Schools](https://www.w3schools.com/)
 wiki.
 
-  * Direct link to the [topic of Forms](https://wiki.selfhtml.org/wiki/HTML/Formulare)
-  * Direct link to the [topic of CSS](https://wiki.selfhtml.org/wiki/CSS)
+  * Direct link to the [topic of Forms](https://www.w3schools.com/html/html_forms.asp)
+  * Direct link to the [topic of CSS](https://www.w3schools.com/css/)
